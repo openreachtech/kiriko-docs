@@ -6,6 +6,10 @@ const vueGlobs = '**/*.vue'
 
 export default [
   {
+    files: [
+      jsGlobs,
+      vueGlobs,
+    ],
     plugins: {
       '@stylistic': pluginStylistic,
     },
@@ -13,4 +17,9 @@ export default [
 
   // For `.vue` files
   ...pluginVue.configs['flat/base'],
+  {
+    files: [
+      vueGlobs,
+    ],
+  }
 ]
