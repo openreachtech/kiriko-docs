@@ -79,5 +79,22 @@ export default [
     files: [
       GLOB_VUE,
     ],
+    rules: {
+      'vue/html-indent': [
+        'error',
+        2,
+        {
+          attribute: 1,
+          baseIndent: 1,
+          closeBracket: {
+            startTag: 0,
+            endTag: 0,
+            selfClosingTag: 0,
+          },
+          alignAttributesVertically: false, // true
+          ignores: [],
+        },
+      ],
+    },
   }
 ]
