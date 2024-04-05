@@ -2,6 +2,7 @@
   "name": "kiriko-docs",
   "version": "0.0.0",
   "description": "Documentations for Kiriko",
+  "type": "module",
   "main": "index.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
