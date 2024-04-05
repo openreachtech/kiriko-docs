@@ -1,14 +1,14 @@
 import pluginVue from 'eslint-plugin-vue'
 import pluginStylistic from '@stylistic/eslint-plugin'
 
-const jsGlobs = '**/*.{js,jsx,mjs,cjs}'
-const vueGlobs = '**/*.vue'
+const GLOBS_JS = '**/*.{js,jsx,mjs,cjs}'
+const GLOBS_VUE = '**/*.vue'
 
 export default [
   {
     files: [
-      jsGlobs,
-      vueGlobs,
+      GLOBS_JS,
+      GLOBS_VUE,
     ],
     plugins: {
       '@stylistic': pluginStylistic,
@@ -19,7 +19,7 @@ export default [
   ...pluginVue.configs['flat/base'],
   {
     files: [
-      vueGlobs,
+      GLOBS_VUE,
     ],
   }
 ]
