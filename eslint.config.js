@@ -42,10 +42,10 @@ export default [
             body: 1,
           },
           StaticBlock: {
-            body: 1
+            body: 1,
           },
           CallExpression: {
-            arguments: 1.
+            arguments: 1,
           },
           ArrayExpression: 1,
           ObjectExpression: 1,
@@ -96,5 +96,5 @@ export default [
         },
       ],
     },
-  }
+  },
 ]
