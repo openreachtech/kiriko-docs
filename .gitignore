@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules
+
+# `vitepress` outputs
+.vitepress/cache
+.vitepress/dist
+
+# Windows specific files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Mac specific files
+.DS_Store
+
+# Environment to develop
+.vscode/*
+!.vscode/cspell.json
+
+# Local env files
+.env
+.env.*
+!.env.example
