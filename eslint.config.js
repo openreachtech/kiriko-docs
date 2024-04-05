@@ -14,16 +14,6 @@ export default [
       '@stylistic': pluginStylistic,
     },
     rules:{
-      '@stylistic/comma-dangle': [
-        'error',
-        {
-          arrays: 'always-multiline',
-          objects: 'always-multiline',
-          imports: 'always-multiline',
-          exports: 'always-multiline',
-          functions: 'never',
-        },
-      ],
       '@stylistic/indent': [
         'error',
         2,
@@ -68,6 +58,16 @@ export default [
         'never', // 'always'
         {
           beforeStatementContinuationChars: 'never',
+        },
+      ],
+      '@stylistic/comma-dangle': [
+        'error',
+        {
+          arrays: 'always-multiline',
+          objects: 'always-multiline',
+          imports: 'always-multiline',
+          exports: 'always-multiline',
+          functions: 'never',
         },
       ],
     },
