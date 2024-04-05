@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/openreachtech/kiriko-docs#readme",
   "devDependencies": {
+    "eslint": "^8.57.0",
     "vitepress": "^1.0.2"
   }
 }
