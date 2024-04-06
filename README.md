@@ -107,19 +107,19 @@ npm install
 Compile and Hot-Reload for Development:
 
 ```sh
-npm run docs:dev
+npm run dev
 ```
 
 Compile and Minify for Production:
 
 ```sh
-npm run docs:build
+npm run build
 ```
 
 Once built, preview it locally by running:
 
 ```sh
-npm run docs:preview
+npm run preview
 ```
 
 Lint with [ESLint](https://eslint.org/)
