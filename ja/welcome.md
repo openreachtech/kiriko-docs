@@ -24,7 +24,7 @@ Kirikoは、オンチェーン上で当人が知識やスキルを獲得して�
 
 Kirikoでは、さらにその次のフェーズとして試験そのものをオンチェーン上で完結できるようにすることで、第三者機関をtrustする部分を完全に排除することができます。(Phase 4) 試験問題や解答結果が改ざんされていないことがスマートコントラクトを使うことで担保することができるとともに、その試験を通して獲得したデジタル証明書は試験結果と明確に紐づいています。
 
-## Why onchain Matter
+## Why Onchain Matter
 
 なぜ、それほどまでにonchainで行うことにこだわるかというと、VitalikのDesocの論文([Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763))にもあるように、オンチェーン上のwalletにsoulを蓄積していき多元的な生き方を許容するDesocの考え方が今後のインターネットの主流になると考えているからです。
 
