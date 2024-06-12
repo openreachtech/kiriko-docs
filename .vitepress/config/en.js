@@ -13,13 +13,13 @@ export const en = defineConfig({
         link: '/',
       },
       {
-        text: 'What is kiriko.wtf',
+        text: 'What is Kiriko',
         link: 'ja/welcome',
       },
     ],
     sidebar: [
       {
-        text: 'kiriko.wtf',
+        text: 'Kiriko Protocol',
         items: [
           {
             text: 'welcome',

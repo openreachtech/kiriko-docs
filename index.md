@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: kiriko.wtf
-  text: Documentations for kiriko.wtf
-  tagline: Permissionless Onchain Examination Protocol as Public Goods
+  name: Kiriko
+  text: Documentations for Kiriko
+  tagline: Permissionless onchain Examination Protocol as Public Goods
   image:
     src: /images/exam_phases.png
-    alt: kiriko.wtf
+    alt: Kiriko
   actions:
     - theme: brand
-      text: What is kiriko.wtf
+      text: What is Kiriko
       link: /ja/welcome
     - theme: alt
       text: Core Concepts
@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 🔗
-    title: Full Onchain
+    title: Full onchain
     details: Publish exam questions, submit answers, check answers, and issue digital attestations, all on-chain
   - icon: 🌍
     title: Public Goods

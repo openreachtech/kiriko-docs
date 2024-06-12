@@ -11,7 +11,7 @@ export const shared = defineConfig({
     ],
     footer: {
       message: 'Built by the <a href="https://cryptolearningclub.org">Crypto Learning Club</a> Community.',
-      copyright: '© 2024 kiriko.wtf. ',
+      copyright: '© 2024 Kiriko. ',
     },
   },
 })
