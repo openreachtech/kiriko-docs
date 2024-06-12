@@ -2,7 +2,7 @@
 
 ## Examination subDAOの増加
 
-kirikoの発展は、多様な試験を提供するsubDAOの発展が重要になります。英語試験のsubDAO、solidity試験のsubDAO、あるいは特定のプロジェクトの知識を試験するsubDAOなど様々な試験を作成するsubDAOを作っていき、kirikoで受けた寄付やスポンサー予算をsubDAOに分配していきます。
+kirikoの発展は、多様な試験を提供するsubDAOの発展が重要になります。英語試験のsubDAO、Solidity試験のsubDAO、あるいは特定のプロジェクトの知識を試験するsubDAOなど様々な試験を作成するsubDAOを作っていき、kirikoで受けた寄付やスポンサー予算をsubDAOに分配していきます。
 
 ## Core ProtocolのDAO化
 
