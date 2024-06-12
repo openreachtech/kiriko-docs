@@ -83,4 +83,4 @@ Onchain Examination Protocolは、いくつかのフェーズに分割され、�
 ![claim_attestation_flow](../images/claim_attestation_flow.png)
 
 
-採点の結果、試験に合格していた場合、受験者は合格証としてのデジタル証明書をClaimすることができるようになります。
+採点の結果、試験に合格していた場合、受験者は合格証としてのデジタル証明書をClaimすることができるようになります。私たちは、証明書サービスとして[EAS](https://attest.org/)を利用します。
