@@ -1,12 +1,12 @@
 # 展望
 
-## Examination subDAOの増加
+## Examination SubDAOsの増加
 
-kirikoの発展は、多様な試験を提供するsubDAOの発展が重要になります。英語試験のsubDAO、Solidity試験のsubDAO、あるいは特定のプロジェクトの知識を試験するsubDAOなど様々な試験を作成するsubDAOを作っていき、kirikoで受けた寄付やスポンサー予算をsubDAOに分配していきます。
+Kirikoの発展は、多様な試験を提供するSubDAOsの発展が重要になります。英語試験のSubDAOs、Solidity試験のSubDAOs、あるいは特定のプロジェクトの知識を試験するSubDAOsなど様々な試験を作成するsubDAOを作っていき、kirikoで受けた寄付やスポンサー予算をSubDAOsに分配していきます。
 
 ## Core ProtocolのDAO化
 
-長期的には、kirikoの運営自体をDAOとして行い、subDAOへの資金分配を分散的に行っていきます。これにより、検定試験とそれに紐づく信用構築基盤が完全に民主的なものとなり、信用構築における政治的な腐敗をなくすことができます。
+長期的には、Kirikoの運営自体をDAOとして行い、SubDAOsへの資金分配を分散的に行っていきます。これにより、検定試験とそれに紐づく信用構築基盤が完全に民主的なものとなり、信用構築における政治的な腐敗をなくすことができます。
 
 ## Multi Chain対応
 

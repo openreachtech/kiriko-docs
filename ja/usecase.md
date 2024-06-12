@@ -2,11 +2,11 @@
 
 ## オンチェーン試験を中心としたExamination SubDAOの生成
 
-Kirikoエコシステムの長期的な発展における重要なポイントは、オンチェーン検定試験を作成していくExamination subDAOsの構築にあります。多様な分野における試験作成のsubDAOができることで、新しい分散型の検定試験を構築していくことができます。
+Kirikoエコシステムの長期的な発展における重要なポイントは、オンチェーン検定試験を作成していくExamination SubDAOsの構築にあります。多様な分野における試験作成のsubDAOができることで、新しい分散型の検定試験を構築していくことができます。
 
-![kiriko-subdaos](../images/kiriko-subdaos.jpg)
+![kiriko-SubDAOs](../images/kiriko-SubDAOs.jpg)
 
-Examination subDAOsのゴールは、オンチェーンの検定試験を[GMAT](https://www.mba.com/exams/gmat-exam)や[IELTS](https://ielts.org/)、[TOEFLE](https://www.ets.org/toefl.html)のような国際的に信用力のある試験と同格のものにすることです。
+Examination SubDAOsのゴールは、オンチェーンの検定試験を[GMAT](https://www.mba.com/exams/gmat-exam)や[IELTS](https://ielts.org/)、[TOEFLE](https://www.ets.org/toefl.html)のような国際的に信用力のある試験と同格のものにすることです。
 
 ## オンチェーン試験のデジタル証明書の相互利用
 

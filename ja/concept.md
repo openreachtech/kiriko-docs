@@ -12,7 +12,7 @@ Onchain Examination Protocolは、誰でもいくつでも試験を作成する�
 
 ### Exam Question&Answer Patterns
 
-既存のオンライン試験の出題形式は多岐に渡ります。本Onchain Examination Protocolの最小限の実装（V1）では、選択肢問題を対象に複数の出題形式を定義できるようにします。
+既存のオンライン試験の出題形式は多岐に渡ります。本onchain Examination Protocolの最小限の実装（V1）では、選択肢問題を対象に複数の出題形式を定義できるようにします。
 
 選択式問題の中でも、いくつかのパターンが存在します。例えば、選択肢が固定で正解選択肢が毎回1つの場合や、正解選択肢が複数存在する場合、選択肢の数が問題によって異なる場合などいろいろなパターンが想定されます。
 
@@ -37,6 +37,7 @@ Onchain Examination Protocolは、誰でもいくつでも試験を作成する�
 ※ 入力（{1: ◯, 2: ☓, 3: ◯, 4: ◯, 5: ☓}）に対して、出力(100点中の点数 and 合格不合格)を行うのが責務
 
 ## プロトコルの流れ
+
 ![exam_phases](../images/exam_phases.png)
 
 Onchain Examination Protocolは、いくつかのフェーズに分割され、出題者と受験者がそれぞれSmart Contractを介してやり取りを行います。
@@ -53,6 +54,7 @@ Onchain Examination Protocolは、いくつかのフェーズに分割され、�
 
 
 ### Commit Answer Flow
+
 ![commit_answer_flow](../images/commit_answer_flow.png)
 
 

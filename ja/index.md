@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 🔗
-    title: フルオンチェーン(Full Onchain)
+    title: フルオンチェーン(Full onchain)
     details: 問題の公開、解答の提出、解答の答え合わせ、すべてオンチェーン上で実行します
   - icon: 🌍
     title: パブリックグッド(Public Goods)
