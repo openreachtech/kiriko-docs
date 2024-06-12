@@ -45,6 +45,10 @@ export const ja = defineConfig({
             link: '/ja/future-work',
           },
           {
+            text: '寄付',
+            link: '/ja/donation',
+          },
+          {
             text: 'FAQ',
             link: '/ja/faq',
           },
