@@ -7,7 +7,7 @@ export const shared = defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'en' }],
     ['meta', { property: 'og:title', content: 'Kiriko - Onchain Examination Protocol - Documentations ' }],
-    ['meta', { property: 'og:site_name', content: 'kiriko Documentations' }],
+    ['meta', { property: 'og:site_name', content: 'Kiriko Documentations' }],
     ['meta', { property: 'og:image', content: 'https://docs.kiriko.wtf/images/kiriko-logo.svg' }],
     ['meta', { property: 'og:url', content: 'https://docs.kiriko.wtf/' }],
   ],
