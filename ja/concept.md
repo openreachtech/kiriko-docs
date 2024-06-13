@@ -6,7 +6,7 @@
 
 ### Create Exam Overview
 
-Onchain Examination Protocolは、誰でもいくつでも試験を作成することができるPermissionlessなプロトコルになっています。Exam Factory Contractを通じて、様々な形式（後述）の試験をオンチェーン上で作成することができます。
+Onchain Examination Protocolは、誰でもいくつでも試験を作成することができるpermissionlessなプロトコルになっています。Exam Factory Contractを通じて、様々な形式（後述）の試験をオンチェーン上で作成することができます。
 
 ![create_exam_overview](../images/create_exam_overview.png)
 
@@ -94,4 +94,4 @@ Onchain Examination Protocolは、いくつかのフェーズに分割され、�
 ![claim_attestation_flow](../images/claim_attestation_flow.png)
 
 
-採点の結果、試験に合格していた場合、受験者は合格証としてのデジタル証明書をClaimすることができるようになります。私たちは、証明書サービスとして[Ethereum Attestation Service (EAS)](https://attest.org/)を利用します。
+採点の結果、試験に合格していた場合、受験者は合格証としてのデジタル証明書をclaimすることができるようになります。私たちは、証明書サービスとして[Ethereum Attestation Service (EAS)](https://attest.org/)を利用します。
