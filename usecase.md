@@ -4,7 +4,7 @@
 
 A crucial point in the long-term development of the Kiriko ecosystem is the construction of Examination SubDAOs that create onchain certification exams. By forming SubDAOs that create exams in various fields, new decentralized certification exams can be developed.
 
-![kiriko-SubDAOs](../images/kiriko-subdaos.png)
+![kiriko-SubDAOs](./images/kiriko-subdaos.png)
 
 The goal of Examination SubDAOs is to make onchain certification exams as credible as international exams like [GMAT](https://www.mba.com/exams/gmat-exam), [IELTS](https://ielts.org/), and [TOEFL](https://www.ets.org/toefl.html).
 

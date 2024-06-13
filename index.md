@@ -12,7 +12,7 @@ Kiriko is a standardized application base layer for conducting exams on the bloc
 
 ## The Evolution of Exams and Attestation
 
-![attestation-history](../images/attestation-history.gif)
+![attestation-history](./images/attestation-history.gif)
 
 Let's look back at the evolution of proving knowledge through exams.
 
