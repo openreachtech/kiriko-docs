@@ -1,16 +1,16 @@
 # ユースケース
 
-## オンチェーン試験を中心としたExamination SubDAOの生成
+## オンチェーン試験を中心としたExamination SubDAOsの組成
 
-Kirikoエコシステムの長期的な発展における重要なポイントは、オンチェーン検定試験を作成していくExamination SubDAOsの構築にあります。多様な分野における試験作成のsubDAOができることで、新しい分散型の検定試験を構築していくことができます。
+Kirikoエコシステムの長期的な発展における重要なポイントは、オンチェーン検定試験を作成していくExamination SubDAOsの構築にあります。多様な分野における試験作成のSubDAOができることで、新しい分散型の検定試験を構築していくことができます。
 
-![kiriko-SubDAOs](../images/kiriko-SubDAOs.jpg)
+![kiriko-SubDAOs](../images/kiriko-subdaos.png)
 
 Examination SubDAOsのゴールは、オンチェーンの検定試験を[GMAT](https://www.mba.com/exams/gmat-exam)や[IELTS](https://ielts.org/)、[TOEFLE](https://www.ets.org/toefl.html)のような国際的に信用力のある試験と同格のものにすることです。
 
 ## オンチェーン試験のデジタル証明書の相互利用
 
-あるサービスを利用する際に特定の知識を必要とするケースは多いです。例えば、Defiのレンディングをやりたい場合にWalletの使い方を理解しておくことは必須となります。
+あるサービスを利用する際に特定の知識を必要とするケースは多いです。例えば、Defiのレンディングをやりたい場合にwalletの使い方を理解しておくことは必須となります。
 
 そのようなケースを想定して、kiriko.wtfで特定のオンチェーン試験をクリアして獲得したデジタル証明書を提示して初めてサービスを利用できるという仕組みを作ることが可能です。
 
