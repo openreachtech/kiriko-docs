@@ -42,6 +42,10 @@ export const en = defineConfig({
             link: '/future-work',
           },
           {
+            text: 'Donation',
+            link: '/donation',
+          },
+          {
             text: 'FAQ',
             link: '/faq',
           },

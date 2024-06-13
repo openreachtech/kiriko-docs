@@ -1,4 +1,4 @@
-# Donations
+# Donation
 
 Kiriko is a completely non-profit project operated through donations and corporate sponsorships.
 
