@@ -1,0 +1,20 @@
+# 展望
+
+## Examination SubDAOsの増加
+
+Kirikoの発展は、多様な試験を提供するSubDAOsの発展が重要になります。英語試験のSubDAOs、Solidity試験のSubDAOs、あるいは特定のプロジェクトの知識を試験するSubDAOsなど様々な試験を作成するSubDAOを作っていき、Public goodであるKirikoが得た寄付やスポンサー予算をSubDAOsに再分配していきます。
+
+## Core ProtocolのDAO化
+
+長期的には、Kirikoの運営自体をDAOとして行い、SubDAOsへの資金分配を分散的に行っていきます。これにより、検定試験とそれに紐づく信用構築基盤が完全に民主的なものとなり、信用構築における政治的な腐敗をなくすことができます。
+
+## Multi Chain対応
+
+Arbitrum, Optimism, Polygon, Baseなどの著名なL2に対応することで各チェーン内のプロジェクトがKirikoの仕組みを利用しやすくなります。
+
+kiriko.wtfでは、Multi Chain対応化した使いやすいUIを提供します。
+
+## 周辺ツールの充実化
+EASとして発行された合格証などのデジタル証明書をアドレスごとに表示する、Kirikoに準拠したEAS Explorerを構築します。
+
+また、KirikoのCore Protocolに対応する形でExam Incentive Contractを付随的に準備することで、EASの発行のみではなくERC20やERC721のようなトークンを成績優秀者に配布する仕組みも構築します。
