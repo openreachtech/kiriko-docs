@@ -10,7 +10,7 @@ kiriko.wtfは、Onchain Examination ProtocolであるKirikoのclient実装の1�
 
 ## Onchain Examination Protocol
 
-Onchain Examination Protocolは、誰でもいくつでも試験を作成することができるPermissionlessなスマートコントラクトを基盤としたプロトコルになっています。Exam Factory Contractを通じて、様々な形式の試験をオンチェーン上で作成することができます。
+Onchain Examination Protocolは、誰でもいくつでも試験を作成することができるpermissionlessなスマートコントラクトを基盤としたプロトコルになっています。Exam Factory Contractを通じて、様々な形式の試験をオンチェーン上で作成することができます。
 
 ## Examination SubDAOs
 
@@ -55,6 +55,6 @@ Soulbond Token (SBT) は、他のアドレスに転送することができな�
 
 Public goodsは、エコシステム内のすべての人が利用でき社会全体にとって恩恵がある資源です。Public goodsはCryptoの世界でテクノロジーを中心とした恩恵を広げる上でとても重要な役割を果たしています。EthereumをはじめとしたCryptoエコシステムの中では、オープンソースプロジェクトやドキュメント、教育用の教材などはPublic Goodsの一例です。
 
-Gitcoinを例にとってみます。このプロジェクトは、WalletやExplorer、その他のCryptoに必要なツールを作成するオープンソースの開発者をコミュニティとして金銭的に支援する仕組みを構築しています。このような仕組みがなければ、私達が普段使っている便利なツールは存在しなかった可能性もあります。
+[Gitcoin](https://www.gitcoin.co/)を例にとってみます。このプロジェクトは、walletやexplorer、その他のCryptoに必要なツールを作成するオープンソースの開発者をコミュニティとして金銭的に支援する仕組みを構築しています。このような仕組みがなければ、私達が普段使っている便利なツールは存在しなかった可能性もあります。
 
-ツール単体ではビジネス的な利益をあげることはできなくても、それ自体が大勢の人の役に立つものである場合は、社会として支援していく仕組みやコミュニティのpublic goodsを応援するマインドが必要になります。
+ツール単体ではビジネス的な利益をあげることはできなくても、それ自体が大勢の人の役に立つものである場合は、社会として支援していく仕組みやPublic goodsを応援するコミュニティのマインドが必要になります。
