@@ -26,19 +26,19 @@ Kirikoでは、さらにその次のフェーズとして試験そのものを�
 
 ## Why Onchain Matter
 
-なぜ、それほどまでにオンチェーンで行うことにこだわるかというと、Ethereumの創業者である[vitalik Buterin](https://x.com/VitalikButerin)のDecentralized Society (DeSoc) の論文([Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763))にもあるように、オンチェーン上のwalletにSoulを蓄積していき多元的な生き方を許容するDesocの考え方が今後のインターネットの主流になると考えているからです。
+なぜ、それほどまでにオンチェーンで行うことにこだわるかというと、Ethereumの創業者である[vitalik Buterin](https://x.com/VitalikButerin)のDecentralized Society (DeSoc) の論文([Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763))にもあるように、オンチェーン上のwalletにSoulを蓄積していき多元的な生き方を許容するDeSocの考え方が今後のインターネットの主流になると考えているからです。
 
-Desocでは、オンチェーン上にSoulを蓄積していくことでそのアドレスのオンチェーン人格を形成します。
+DeSocでは、オンチェーン上にSoulを蓄積していくことでそのアドレスのオンチェーン人格を形成します。
 
-Cryptoの世界では分散金融サービスを中心にTrustlessという考え方が一般的でしたが、オンチェーン人格が形成されるとCryptoの中でもTrustを前提とした多様な経済活動が可能になると考えられます。
+Cryptoの世界では分散金融サービスを中心にtrustlessという考え方が一般的でしたが、オンチェーン人格が形成されるとCryptoの中でもtrustを前提とした多様な経済活動が可能になると考えられます。
 
-例えば、DeFiのlendingではTrustlessのため超過担保が必要ですが、現実世界ではその人の信用情報（名前、住所、就職先など）をもとに銀行は貸付を行います。
+例えば、DeFiのlendingではtrustlessのため超過担保が必要ですが、現実世界ではその人の信用情報（名前、住所、就職先など）をもとに銀行は貸付を行います。
 
-Don't Trustの精神が基盤となっているCryptoの世界でも、当人のオンチェーンでの活動履歴に応じて現実世界のようにオンチェーン上でTrustが生まれると、そのTrustに基づいた複雑なサービスが次々と生まれてくるでしょう。
+Don't Trustの精神が基盤となっているCryptoの世界でも、当人のオンチェーンでの活動履歴に応じて現実世界のようにオンチェーン上でtrustが生まれると、そのtrustに基づいた複雑なサービスが次々と生まれてくるでしょう。
 
-Kirikoでは、特に教育の面からこのオンチェーン人格を基礎としたDesocに必要なパーツを埋めていきます。その人がどのような知識を持っているかをオンチェーン上のみで判定できるようになると、例えば、オンチェーン上での匿名での採用活動や良質なコミュニティ形成などにも役立てることができます。
+Kirikoでは、特に教育の面からこのオンチェーン人格を基礎としたDeSocに必要なパーツを埋めていきます。その人がどのような知識を持っているかをオンチェーン上のみで判定できるようになると、例えば、オンチェーン上での匿名での採用活動や良質なコミュニティ形成などにも役立てることができます。
 
-私達はDesocの先にCryptoの未来があると考えているので、Kirikoにおいてもフルオンチェーンにこだわりつつ、誰でも使えるpermissionlessなPublic goodサービスを展開していきます。
+私達はDeSocの先にCryptoの未来があると考えているので、Kirikoにおいてもフルオンチェーンにこだわりつつ、誰でも使えるpermissionlessなPublic goodサービスを展開していきます。
 
 ## Key Things to Know About Kiriko
 
@@ -48,7 +48,7 @@ Kirikoでは、特に教育の面からこのオンチェーン人格を基礎�
 
 ### Kiriko is a part of shaping Desoc
 
-オンチェーン人格が生成された先には、Desocがあります。Trustlessが基本のブロックチェーンの世界において、Trustをベースにした社会構造を作り上げることができます。Kirikoは、教育の面からアドレスへのTrustの蓄積に貢献します。
+オンチェーン人格が生成された先には、DeSocがあります。Trustlessが基本のブロックチェーンの世界において、trustをベースにした社会構造を作り上げることができます。Kirikoは、教育の面からアドレスへのtrustの蓄積に貢献します。
 
 ### Kiriko is a public good
 

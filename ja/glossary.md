@@ -14,7 +14,7 @@ Onchain Examination Protocolは、誰でもいくつでも試験を作成する�
 
 ## Examination SubDAOs
 
-Onchain Examination Protocolを利用して、特定の分野に関して問題を作るDAOになります。もちろん、Permissonlessなので誰でも試験を作成することはできますが、より質の高い試験を継続的に作成するためには試験問題を作成する団体があるほうが望ましいです。我々は、Onchain Examination Protocolの上で活動する複数のSubDAOの構築を目指します。
+Onchain Examination Protocolを利用して、特定の分野に関して問題を作るDAOになります。もちろん、permissonlessなので誰でも試験を作成することはできますが、より質の高い試験を継続的に作成するためには試験問題を作成する団体があるほうが望ましいです。我々は、Onchain Examination Protocolの上で活動する複数のSubDAOの構築を目指します。
 
 ## Kiriko Ecosystem
 
@@ -53,7 +53,7 @@ Soulbond Token (SBT) は、他のアドレスに転送することができな�
 
 ## Public goods
 
-Public goodsは、エコシステム内のすべての人が利用でき社会全体にとって恩恵がある資源です。Public goodsはCryptoの世界でテクノロジーを中心とした恩恵を広げる上でとても重要な役割を果たしています。EthereumをはじめとしたCryptoエコシステムの中では、オープンソースプロジェクトやドキュメント、教育用の教材などはPublic Goodsの一例です。
+Public goodsは、エコシステム内のすべての人が利用でき社会全体にとって恩恵がある資源です。Public goodsはCryptoの世界でテクノロジーを中心とした恩恵を広げる上でとても重要な役割を果たしています。EthereumをはじめとしたCryptoエコシステムの中では、オープンソースプロジェクトやドキュメント、教育用の教材などはPublic goodsの一例です。
 
 [Gitcoin](https://www.gitcoin.co/)を例にとってみます。このプロジェクトは、walletやexplorer、その他のCryptoに必要なツールを作成するオープンソースの開発者をコミュニティとして金銭的に支援する仕組みを構築しています。このような仕組みがなければ、私達が普段使っている便利なツールは存在しなかった可能性もあります。
 
