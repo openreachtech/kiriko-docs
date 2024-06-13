@@ -9,12 +9,8 @@ export const en = defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {
-        text: 'Home',
-        link: '/',
-      },
-      {
-        text: 'What is Kiriko',
-        link: 'ja/welcome',
+        text: 'kiriko.wtf',
+        link: 'https://kiriko.wtf',
       },
     ],
     sidebar: [
@@ -22,36 +18,36 @@ export const en = defineConfig({
         text: 'Kiriko Protocol',
         items: [
           {
-            text: 'welcome',
-            link: 'ja/welcome',
+            text: 'Welcome',
+            link: '/',
           },
           {
-            text: 'background',
-            link: 'ja/background',
+            text: 'Background',
+            link: '/background',
           },
           {
             text: 'Core Concept',
-            link: 'ja/concept',
+            link: '/concept',
           },
           {
             text: 'Features',
-            link: '/ja/feature',
+            link: '/feature',
           },
           {
-            text: 'Usercases',
-            link: '/ja/usecase',
+            text: 'Use Cases',
+            link: '/usecase',
           },
           {
             text: 'Future Work',
-            link: '/ja/future-work',
+            link: '/future-work',
           },
           {
             text: 'FAQ',
-            link: '/ja/faq',
+            link: '/faq',
           },
           {
             text: 'Glossary',
-            link: '/ja/glossary',
+            link: '/glossary',
           },
         ],
       },
