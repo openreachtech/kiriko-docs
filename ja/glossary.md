@@ -2,7 +2,7 @@
 
 ## Kiriko
 
-Kirikoは、リアルタイムOnchain試験を可能にするプロトコルです。
+Kirikoは、リアルタイムオンチェーン試験を可能にするプロトコルです。
 
 ## kiriko.wtf
 
