@@ -35,7 +35,7 @@ An examiner is someone who creates onchain exams. Anyone can freely create and p
 
 ## Examinee
 
-An examinee is someone who takes the onchain exams. Examinees can take exams of their choice at their discretion. During the exam period, examinees can overwrite their answers as many times as they want until they are satisfied. After the exam ends, examinees can see how they compare to others who took the same exam and, if they pass, receive a digital certificate.
+An examinee is someone who takes the onchain exams. Examinees can take exams of their choice at their discretion. During the exam period, examinees can overwrite their answers as many times as they want until they are satisfied. After the exam ends, examinees can see how they compare to others who took the same exam and, if they pass, receive an onchain digital certificate.
 
 ## Ethereum Attestation Service (EAS)
 
@@ -43,7 +43,7 @@ EAS is a digital certificate issued on the blockchain. The contents of the EAS c
 
 ## Decentralized Society (DeSoc)
 
-In the real world, economic activities are based on sustainable trust relationships formed within society. Decentralized Society aims to realize such a network based on trust in the crypto world. By accumulating Soul on addresses and forming an onchain persona, communities can gather bottom-up, using their creativity to co-create various network assets and intelligence at multiple scales, enabling the construction of a pluralistic society.
+In the real world, economic activities are based on sustainable trust relationships formed within society. Decentralized Society aims to realize such a network based on trust in the crypto world. By accumulating "Soul" on addresses and forming an onchain persona, communities can gather bottom-up, using their creativity to co-create various network assets and intelligence at multiple scales, enabling the construction of a pluralistic society.
 
 ## Soulbound Token (SBT)
 
@@ -55,6 +55,6 @@ Currently, the specifications are not finalized, and multiple entities are exper
 
 Public goods are resources that everyone within the ecosystem can use and that benefit society as a whole. Public goods play a crucial role in spreading the benefits of technology in the crypto world. In the Ethereum and broader crypto ecosystem, examples of public goods include open-source projects, documentation, and educational materials.
 
-Take [Gitcoin](https://www.gitcoin.co/) as an example. This project establishes a system to financially support open-source developers who create tools necessary for crypto, such as wallets and explorers, as a community. Without such a system, the convenient tools we use daily might not have existed.
+Take [Gitcoin](https://www.gitcoin.co/) as an example. This project establishes a system to financially support open-source developers who create essential tools for crypto, such as wallets and explorers, as a community. Without such a mechanism, the convenient tools we use daily might not have existed.
 
-Even if a tool cannot generate business profits on its own, if it is beneficial to many people, there needs to be a system to support it and a community mindset that encourages public goods.
+Even if a tool cannot generate business profits on its own, if it is beneficial to many people, there needs to be a mechanism to support it and a community mindset that encourages public goods.
