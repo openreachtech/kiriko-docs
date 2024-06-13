@@ -8,12 +8,8 @@ export const ja = defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       {
-        text: 'Home',
-        link: '/',
-      },
-      {
-        text: 'Kirikoとは',
-        link: '/ja/welcome',
+        text: 'kiriko.wtf',
+        link: 'https://kiriko.wtf/',
       },
     ],
     sidebar: [
@@ -22,7 +18,7 @@ export const ja = defineConfig({
         items: [
           {
             text: 'ようこそ',
-            link: '/ja/welcome',
+            link: '/ja/',
           },
           {
             text: '背景',
