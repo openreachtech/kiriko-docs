@@ -1,0 +1,33 @@
+{
+  "name": "kiriko-docs",
+  "version": "0.0.0",
+  "description": "Documentations for Kiriko",
+  "type": "module",
+  "main": "index.md",
+  "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev",
+    "preview": "vitepress preview",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openreachtech/kiriko-docs.git"
+  },
+  "keywords": [
+    "kiriko"
+  ],
+  "author": "ORT inc.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/openreachtech/kiriko-docs/issues"
+  },
+  "homepage": "https://github.com/openreachtech/kiriko-docs#readme",
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^1.7.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.24.0",
+    "vitepress": "^1.0.2"
+  }
+}
